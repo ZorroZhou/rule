@@ -30,20 +30,4 @@ IP-CIDR,185.222.222.222/32,no-resolve
 IP-CIDR,208.67.222.222/32,no-resolve
 IP-CIDR,208.67.220.220/32,no-resolve
 
-# SyncNext需要代理节点
-DOMAIN-SUFFIX,malaysla.com
-DOMAIN-SUFFIX,biggggg.com
-DOMAIN-SUFFIX,newpppp.com
-DOMAIN-SUFFIX,nivod4.tv
-DOMAIN-SUFFIX,ulivetv.net
-DOMAIN-SUFFIX,efhie.com
-DOMAIN-SUFFIX,phncdn.com
-DOMAIN-SUFFIX,pornhub.com
-DOMAIN-SUFFIX,91p49.com
-DOMAIN-SUFFIX,cdn13.com
-DOMAIN-SUFFIX,ceres9350.com
-DOMAIN-KEYWORD,bluewind
-DOMAIN-KEYWORD,cnouki
-DOMAIN-KEYWORD,fengyunjiaoyu
-DOMAIN-KEYWORD,ceqhgj
-DOMAIN-KEYWORD,cqehgj
+

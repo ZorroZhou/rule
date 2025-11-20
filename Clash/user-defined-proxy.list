@@ -13,5 +13,3 @@
 # 国外DNS
 #DOMAIN-SUFFIX,dns.google
 #IP-CIDR,8.8.8.8/32,no-resolve
-
-#
